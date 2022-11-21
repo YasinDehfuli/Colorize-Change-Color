@@ -1,0 +1,23 @@
+#bothpic{
+     position: relative;
+width: 100vw;
+     cursor: w-resize;
+
+}
+
+#pic1 {
+     background-image: url("img/1.png") ;
+     width: 2000px;
+     height: 100vh;
+     position: fixed;
+
+
+
+}
+#pic2 {
+     background-image: url("img/2.png") ;
+     width: 2000px;
+     height: 100vh;
+     position: fixed;
+
+}
